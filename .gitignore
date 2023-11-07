@@ -21,7 +21,7 @@ logs/**
 !.gitkeep
 
 # also keep the example dataset
-!data/01_raw/iris.csv
+!data/01_raw/cwurData.csv
 
 
 ##########################
@@ -157,3 +157,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+stats.json
